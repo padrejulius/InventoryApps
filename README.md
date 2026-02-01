@@ -1,2 +1,2 @@
 # InventoryApps
-This is a simple CRUD app
+This is a simple CRUD application
